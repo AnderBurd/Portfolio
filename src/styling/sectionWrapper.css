@@ -1,0 +1,21 @@
+.section-wrapper {
+    padding: 0.5rem;
+    margin: 0.2rem auto;
+  }
+  
+  .section-title {
+    display: flex;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .section-content {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #d1d5db;
+    max-width: 48rem;
+    line-height: 1.5;
+    min-width: 48rem;
+  }

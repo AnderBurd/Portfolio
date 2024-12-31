@@ -1,0 +1,35 @@
+.name{
+    font-size: 2.4rem;
+    color: #fff;
+    margin: 0;
+}
+
+/* Add the following CSS block to your own
+stylesheet. */
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+  }
+  
+  .lnr-graduation-hat {
+    color: #dde2eb;
+    font-size: 20px;
+    /* 
+    To get crisp results, use sizes that are
+    a multiple of 20; because Linearicons was
+    designed on a 20 by 20 grid. */
+  }
+
+  .lnr-map-marker {
+    color: #dde2eb;
+    font-size: 20px;
+  }
+
+  .symbolLines{
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    font-size: 0.9em;
+  }

@@ -1,0 +1,20 @@
+a {
+    color:  lightgrey;
+    text-decoration: none; 
+    vertical-align: middle; /* Aligns link text in the middle */
+  }
+  
+a:hover {
+    color: white; 
+    text-decoration: none;
+    vertical-align: middle; /* Aligns link text in the middle */
+  }
+
+.Links{
+    display: flex;
+    gap: 10px; /* Add spacing between elements */
+}
+
+.Links p {
+  margin: 0; 
+}

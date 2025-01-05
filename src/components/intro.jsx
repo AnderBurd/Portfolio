@@ -13,7 +13,7 @@ const Intro = () =>{
                 <span className="lnr lnr-map-marker"></span> Vancouver, British Columbia, Canada
             </p>
             <p>
-            faucibus consequat urna quis, rutrum bibendum lacus. Cras orci felis, condimentum et quam in, tristique convallis mauris. Aliquam vitae odio nunc. Fusce ac tristique nisl. Ut aliquet lectus quis accumsan tincidunt. Duis nec risus enim. Pellentesque dui elit, maximus sit amet ligula eget, tincidunt tincidunt eros. Curabitur nec vulputate lectus. Curabitur euismod at felis at porta. Quisque in laoreet leo. Vivamus euismod quam sed augue vestibulum, quis pulvinar mi convallis. Quisque a purus laoreet, luctus sem sit amet, varius risus. Phasellus sit amet sem mollis, sagittis mi blandit, fermentum tellus.             </p>
+            I’m Anderson, a passionate computer science undergraduate who loves building things and solving complex problems. I thrive on building innovative solutions, whether it’s designing sleek web applications or diving deep into algorithms. I’m always eager to learn and experiment with new tools and technologies. Take a look around and see what I’ve been working on!            </p>
         </SectionWrapper>
     );
 };

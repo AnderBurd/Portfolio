@@ -13,6 +13,8 @@ a:hover {
 .Links{
     display: flex;
     gap: 10px; /* Add spacing between elements */
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .Links p {

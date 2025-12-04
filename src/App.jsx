@@ -3,6 +3,7 @@ import Projects from './components/projectSection.jsx';
 import Contact from './components/contactMe.jsx';
 import './styling/App.css';
 import React from 'react';
+
 function App() {
 
   return (

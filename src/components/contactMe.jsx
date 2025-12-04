@@ -9,8 +9,8 @@ const Contact = () =>{
         <SectionWrapper title = "Links">
             <div className = "Links">
                 <p>AndersonLee0248@gmail.com</p>
-                <a href="https://github.com/AnderBurd" target="_blank">GitHub <span class="lnr lnr-location"></span> </a>
-                <a href="https://www.linkedin.com/in/anderson-lee-796ab2330/" target="_blank">Linkedin <span class="lnr lnr-location"></span> </a>
+                <a href="https://github.com/AnderBurd" target="_blank">GitHub <span className="lnr lnr-location"></span> </a>
+                <a href="https://www.linkedin.com/in/anderson-lee-796ab2330/" target="_blank">Linkedin <span className="lnr lnr-location"></span> </a>
             </div>
 
         </SectionWrapper>

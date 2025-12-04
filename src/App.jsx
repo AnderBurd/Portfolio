@@ -8,7 +8,7 @@ function App() {
   return (
     <div className = "App">
       <Intro />
-      <Projects />
+      {/*<Projects /> commented out project section*/}
       <Contact />
     </div>
   );

@@ -5,8 +5,11 @@
     margin-bottom: 0;
 }
 
-/* Add the following CSS block to your own
-stylesheet. */
+.summary{
+
+  margin-top: 2rem;
+}
+
 .lnr {
     display: inline-block;
     fill: currentColor;
